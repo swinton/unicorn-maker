@@ -1,4 +1,4 @@
-module github.com/brianterry/unicorn-maker/go
+module github.com/swinton/unicorn-maker/go
 
 go 1.13
 

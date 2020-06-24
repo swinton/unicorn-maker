@@ -14,7 +14,7 @@ import (
 
 // APIEndpoint is the crudcrud endpoint.
 // You can  obtain an endpoint by going to https://crudcrud.com.
-const APIEndpoint = "https://crudcrud.com/api/<Your API ID>/unicorns"
+const APIEndpoint = "https://crudcrud.com/api/93c5bce24194498a9af5607d4a23b9eb/unicorns"
 
 // A Unicorn represents a unicorn.
 type Unicorn struct {

@@ -1,5 +1,5 @@
 {
-    "typeName": "Brianterry::Unicorn::Maker",
+    "typeName": "Swinton::Unicorn::Maker",
     "description": "A resource that creates unicorns.",
     "sourceUrl": "https://github.com/aws-cloudformation/aws-cloudformation-rpdk.git",
     "properties": {
